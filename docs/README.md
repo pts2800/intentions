@@ -1,3 +1,5 @@
+# THIS IS A TEST CATALOG FOR TRUENAS SCALE
+
 # catalog_template
 Use this to start your own Basic TrueNAS SCALE Catalog
 
